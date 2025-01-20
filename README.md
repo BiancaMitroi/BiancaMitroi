@@ -3,7 +3,7 @@ Junior Frontend Developer & Cybersecurity Engineering student
 
 📍 **Cluj-Napoca, Romania**  
 📧 [biancamitroi.2001@gmail.com](mailto:biancamitroi.2001@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/bianca-mitroi-896ab1220/) | [GitHub](https://github.com/BiancaMitroi)  
+🌐 [LinkedIn](https://www.linkedin.com/in/bianca-mitroi-896ab1220/)  
 
 ---
 
@@ -28,17 +28,20 @@ Enthusiastic Junior Developer with a solid foundation in creating responsive, us
 
 ## 🎓 Education  
 
-### Cybersecurity Engineering - Master
+### Cybersecurity Engineering - Master  
 **Technical University of Cluj-Napoca** — Cluj-Napoca, Romania  
 📅 **2026**  
 
-- Relevant coursework or achievements (optional).
+- **Relevant Coursework**: Mobile Security, Reverve Engineering and Malware Analysis, Secure Software Development.
+- **Achievements**: Learned to analyze and mitigate different types of malware and implemented software design security principles.
 
 ### Computer Science - Bachelor  
-**Technical University of Cluj-Napoca** — Cluj-Napoca, Romania 
+**Technical University of Cluj-Napoca** — Cluj-Napoca, Romania  
 📅 **2024**  
 
-- Relevant coursework or achievements (optional).
+- **Relevant Coursework**: Data Structures and Algorithms, Object-Oriented Programming (Java, C++), Web Development (HTML, CSS, JavaScript), Database Systems (SQL), Operating Systems, Computer Networks, Software Engineering Principles.  
+- **Achievements**: Built projects focusing on a web-based task management platform, applying full-stack development principles.  
+
 
 ---
 
