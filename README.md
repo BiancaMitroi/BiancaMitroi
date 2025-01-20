@@ -65,7 +65,7 @@ Enthusiastic Junior Developer with a solid foundation in creating responsive, us
 
 ## 🌟 Interests  
 - **Web Development Trends**: Staying updated on the latest frontend frameworks, tools, and design practices.  
-- **Cybersecurity Challenges**: Exploring real-world case studies and participating in Capture The Flag (CTF) competitions.    
+- **Cybersecurity Challenges**: Exploring real-world case studies.    
 - **Tech Meetups and Conferences**: Networking with industry professionals and learning about cutting-edge technologies.  
 - **Digital Privacy Advocacy**: Promoting secure and ethical technology practices for online safety.  
 - **Creative Design**: Experimenting with UI/UX design tools to create visually appealing interfaces.  
