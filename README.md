@@ -18,6 +18,7 @@ Enthusiastic Junior Developer with a solid foundation in creating responsive, us
 
 ### Junior Software Engineer  
 **8x8** — Cluj-Napoca, Romania
+
 📅 **July 2023 – present**  
 
 - **Developed and maintained** responsive, user-friendly interfaces using HTML, CSS, JavaScript, and modern frameworks like React.js.  
