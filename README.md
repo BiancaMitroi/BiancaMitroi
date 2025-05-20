@@ -4,6 +4,7 @@ Junior Frontend Developer & Cybersecurity Engineering student
 📍 **Cluj-Napoca, Romania**  
 📧 [biancamitroi.2001@gmail.com](mailto:biancamitroi.2001@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/bianca-mitroi-896ab1220/)  
+<img src="./github-mark.png" alt="Github logo" width="16" /> [github](https://github.com/BiancaMitroi/)
 
 ---
 
@@ -16,7 +17,7 @@ Enthusiastic Junior Developer with a solid foundation in creating responsive, us
 ## 💼 Work Experience  
 
 ### Junior Software Engineer  
-**8x8** — Cluj-Napoca, Romania <br>
+**8x8** — Cluj-Napoca, Romania
 📅 **July 2023 – present**  
 
 - **Developed and maintained** responsive, user-friendly interfaces using HTML, CSS, JavaScript, and modern frameworks like React.js.  
