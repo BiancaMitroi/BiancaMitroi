@@ -4,7 +4,7 @@ Junior Frontend Developer & Cybersecurity Engineering student
 📍 **Cluj-Napoca, Romania**  
 📧 [biancamitroi.2001@gmail.com](mailto:biancamitroi.2001@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/bianca-mitroi-896ab1220/)  
-<img src="./github-mark.png" alt="Github logo" width="16" /> [github](https://github.com/BiancaMitroi/)
+📈 [github](https://github.com/BiancaMitroi/)
 
 ---
 
