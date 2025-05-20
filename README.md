@@ -32,7 +32,7 @@ Enthusiastic Junior Developer with a solid foundation in creating responsive, us
 **Technical University of Cluj-Napoca** — Cluj-Napoca, Romania  
 📅 **2026**  
 
-- **Relevant Coursework**: Mobile Security, Reverve Engineering and Malware Analysis, Secure Software Development.
+- **Relevant Coursework**: Mobile Security, Reverse Engineering and Malware Analysis, Secure Software Development.
 - **Achievements**: Learned to analyze and mitigate different types of malware and implemented software design security principles.
 
 ### Computer Science - Bachelor  
